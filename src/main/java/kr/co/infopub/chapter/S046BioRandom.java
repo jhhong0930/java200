@@ -6,7 +6,7 @@ public class S046BioRandom {
 
         int range = 9;
         int start = 1;
-        int a, b, c = 0;
+        int a=0, b=0, c=0;
 
         while (true) {
 
