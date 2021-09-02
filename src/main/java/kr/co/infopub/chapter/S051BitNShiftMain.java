@@ -11,7 +11,7 @@ public class S051BitNShiftMain {
 
         String s = "";
 
-        for (int i=0; i<=3; i++) {
+        for (int i=0; i<=31; i++) {
 
             s = (a & BITMASK) + s;
 
